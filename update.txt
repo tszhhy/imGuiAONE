@@ -1,1 +1,1 @@
-https://github.com/tszhhy/imGuiAONE/releases
+https://github.com/tszhhy/imGuiAONE/releases/download/AlphaV0.0.2.58/AONE.exe
